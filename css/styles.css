@@ -35,9 +35,7 @@ body{
 .navbar-dark{
     background-color: #512da8;
 }
-.card-header{
-    background-color: orange;
-}
+
 .tab-content {
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
